@@ -16,5 +16,6 @@ El dataset cuenta con tres secciones: entrenamiento, testeo y validación. Se ut
 GaussianNB, Decision Tree, Random Forest, Support Vector Machine
 
 ## Enlaces
--Notebook:
--Video:
+- Notebook:
+
+- Video:
