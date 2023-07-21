@@ -16,6 +16,8 @@ El dataset cuenta con tres secciones: entrenamiento, testeo y validación. Se ut
 GaussianNB, Decision Tree, Random Forest, Support Vector Machine
 
 ## Enlaces
-- Notebook:
+- Notebook: https://drive.google.com/file/d/1g-2DwNfJOMWd8YI5uFd3q6qkRR-pEXgz/view?usp=drive_link
 
-- Video:
+- Video: https://youtu.be/JHXlBnHDeGA
+
+- Repositorio: https://github.com/TizMate/Clasificacion-entre-celulas-normales-o-cancerigenas-a-partir-de-imagenes-microscopicas
